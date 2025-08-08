@@ -15,11 +15,14 @@ This repo is not a fork — I’m working through the challenges day by day to s
 - [x] Day 7
 - [x] Day 8
 - [x] Day 9
-- [ ] Day 10
-- [ ] Day 11
+- [x] Day 10
+- [x] Day 11
 - [ ] Day 12
 - [ ] Day 13
 - [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
 - ...
 
 ## 🧠 Goals
