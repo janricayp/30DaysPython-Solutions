@@ -19,10 +19,20 @@ This repo is not a fork — I’m working through the challenges day by day to s
 - [x] Day 11
 - [x] Day 12
 - [x] Day 13
-- [ ] Day 14
-- [ ] Day 15
+- [x] Day 14
+- [x] Day 15
 - [ ] Day 16
 - [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 25
+- [ ] Day 26
+- [ ] Day 27
+- [ ] Day 28
+- [ ] Day 29
+- [ ] Day 30
 - ...
 
 ## 🧠 Goals
