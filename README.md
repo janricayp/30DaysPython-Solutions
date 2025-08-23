@@ -24,7 +24,7 @@ This repo is not a fork — I’m working through the challenges day by day to s
 - [x] Day 16
 - [x] Day 17
 - [x] Day 18
-- [ ] Day 19
+- [x] Day 19
 - [ ] Day 20
 - [ ] Day 21
 - [ ] Day 25
